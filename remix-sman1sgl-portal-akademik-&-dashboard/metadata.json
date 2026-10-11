@@ -1,0 +1,8 @@
+{
+  "name": "Remix SMAN1SGL Portal Akademik \u0026 Dashboard",
+  "description": "Sistem Desain \u0026 Antarmuka Terpadu SMAN1SGL dengan Portal Publik, Dashboard Manajemen, Manajemen Berkas, dan Editor Halaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
